@@ -5,8 +5,8 @@
  ## Features
  ### Quickstart
  ```
- git clone https://github.com/Cyfrin/foundry-smart-contract-lottery-cu
- cd foundry-smart-contract-lottery-cu
+ git clone https://github.com/Bricks-chains/Raffle-Contract-foundry
+ cd Raffle-Contract-foundry
  forge build
  ```
  ### Below are the key functionalities of the Raffle smart contract
